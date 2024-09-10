@@ -114,6 +114,9 @@ cd blog-api
  ```bash
 mvn clean compile
  ```
+ ```bash
+mvn package
+ ```
 
 3. **Execute o projeto**
 
